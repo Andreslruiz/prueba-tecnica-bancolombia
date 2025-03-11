@@ -1,0 +1,17 @@
+# Ignorar archivos de entorno virtual
+venv/
+env/
+*.env
+
+.vscode/
+.idea/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.ipynb_checkpoints/
+
+*.log
+*.tmp
+*.bak
