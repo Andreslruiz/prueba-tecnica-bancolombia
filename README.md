@@ -1,4 +1,4 @@
-# 🚀 **Prueba Técnica - Analista III en Bancolombia**
+# 🚀 **Prueba Técnica - Analista III Bancolombia**
 
 **Carlos Andres Loaiza Ruiz**  
 Ingeniero Electrónico | Especialista en Programación Aplicada | Estudiante de Maestría en Inteligencia Artificial  
@@ -16,7 +16,7 @@ El objetivo de esta prueba técnica es procesar un archivo Excel con datos de ve
 
 ## 🛠️ **Tecnologías Utilizadas**
 
-- **Python 3.x**  
+- **Python**  
 - **Pandas**: Para el manejo de datos.  
 - **OpenPyXL**: Para leer y escribir archivos Excel.  
 
